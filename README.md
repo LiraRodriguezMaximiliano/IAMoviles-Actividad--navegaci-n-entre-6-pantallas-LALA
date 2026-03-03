@@ -1,6 +1,8 @@
 # myapp
 
 A new Flutter project.
+#Prompt
+Ahora haz 3 pantallas mas, Primero haz uno para el productos NO lacteos, que sea identica a la de productos lacteos, solo que todo salga agotado y despues debo de hacer lo de iniciar sesion y registrarse, para iniciar sesion debe de haber un navbar de color rojo, debajo solo debe pedir correo y contrasena, y el boton de iniciar sesion(No funcional) con fondo blanco, debajo de eso poner un texto de "No tienes cuenta, registrate", SOLO el registrate me debe de llevar a la de registro(ademas desde el inicio), luego el de registrarse el navbar debe ser azul, con correo, nombre, usuario y contrasena, mas el boton, abajo un texto de "Ya tienes cuenta, Inicia sesion" De igual manera transportar 
 
 ## Getting Started
 
